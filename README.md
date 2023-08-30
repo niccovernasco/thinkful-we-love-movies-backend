@@ -1,9 +1,6 @@
 WeLoveMovies
 Backend Capstone for Thinkful
 
-Links
-Deployed App: https://starter-movie-front-end-mbash0023.vercel.app/
-
 
 Tasks:
 Built API conforming to RESTful standards
