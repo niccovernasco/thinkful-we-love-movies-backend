@@ -1,6 +1,7 @@
 WeLoveMovies
 Backend Capstone for Thinkful
 
+Deployed at https://thinkful-welovemovies-frontend.onrender.com
 
 Tasks:
 Built API conforming to RESTful standards
